@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning html,css,JavaScript 
 - 💞️ I’m looking to collaborate on anything Web Development 
-- 📫 Reach me on Mrekejikingsley@gmail.com
+- 📫 Reach me on EkejikingsleyO@gmail.com
 
 <!---
 EkejiKingsleyO/EkejiKingsleyO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
